@@ -201,7 +201,7 @@ It’s the kind of system you’d expect in a **real AI platform backend**.
 ## 👨‍💻 Author
 
 **Rajat**
-🔗 https://github.com/your-username
+🔗 https://github.com/rajaty02/LLM-Gateway.git
 
 ---
 
